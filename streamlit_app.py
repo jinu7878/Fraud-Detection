@@ -12,7 +12,7 @@ import plotly.graph_objects as go
 
 # Set page configuration
 st.set_page_config(
-    page_title="Online Payment Fraud Detection",
+    page_title="Fraud-Detection",
     page_icon="🔍",
     layout="wide"
 )
